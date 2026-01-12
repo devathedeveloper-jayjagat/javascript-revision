@@ -9,3 +9,4 @@ getUser((user) => {
     console.log(user)
 })
 
+// promise
